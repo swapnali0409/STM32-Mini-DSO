@@ -116,7 +116,12 @@ PA2 → TFT CS
 *  Button-based control
 
 ---
+## OUTPUT
+![WhatsApp Image 2026-03-29 at 9 45 35 AM](https://github.com/user-attachments/assets/a4949ca9-f096-44e7-9107-8ec2eb4054e9)
+![WhatsApp Image 2026-03-28 at 3 07 32 PM](https://github.com/user-attachments/assets/e62e4af2-3bb5-45d0-a120-b51e8be0e2d4)
 
+
+---
 ##  Current Limitations
 
 * Waveform is slightly **distorted / unstable**
