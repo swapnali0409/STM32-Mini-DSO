@@ -61,7 +61,9 @@ Trigger: Software
 Data Alignment: Right
 Sampling Time: 1.5 cycles
 
-## Used for high-speed signal sampling
+## Used for 
+
+high-speed signal sampling
 
 ## DMA Configuration (ADC)
 DMA1 Channel1 → ADC
@@ -81,7 +83,9 @@ Clock Polarity: Low
 Clock Phase: 1st Edge
 Baud Rate Prescaler: 16
 
-## Used for TFT display communication
+## Used for
+
+TFT display communication
 
 ## DMA Configuration (SPI)
 DMA1 Channel3 → SPI TX
